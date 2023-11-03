@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "5c6a1c456459f0a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2be16043ea9fe7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1979a78cc3e96a2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QT/QSerialPort/QSerialPort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bea98ad3d65a0729",
+    "type": "split",
+    "children": [
+      {
+        "id": "03936ce4f0f81d63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6adeb1504b46612",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28bd26669b0f871c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44e8170871c41cab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d764c20dc9007a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "42b3e96cbaca283e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d54fe801cabacaa9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "QT/QSerialPort/QSerialPort.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "599c5639271f51a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "QT/QSerialPort/QSerialPort.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffcec4a69dffc980",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "11faa8a5344ca29d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "QT/QSerialPort/QSerialPort.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1979a78cc3e96a2d",
+  "lastOpenFiles": [
+    "README.md",
+    "QT/QSerialPort/QSerialPort.md"
+  ]
+}
